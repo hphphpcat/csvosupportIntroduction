@@ -69,6 +69,6 @@
 | 渠道 | 账号 |
 | --- | --- |
 | Telegram | [@OAVOProxy](https://t.me/OAVOProxy) |
-| WhatsApp / Phone | +86 17863968105 |
+| Phone | +86 15658625045 |
 | 微信 | Coding0201 |
 | Email | catcstech@gmail.com |
