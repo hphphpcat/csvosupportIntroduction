@@ -1,0 +1,31 @@
+{
+    "name": "联系学长",
+    "slug": "contact",
+    "container_mode": "fullwidth",
+    "blocks": [
+        {
+            "id": "block_45edcea9-db64-4c45-b4a5-e8a353f8d726",
+            "type": "shortcode",
+            "title": "CSOfferPrep Header",
+            "content": "[csop_header]",
+            "collapsed": false,
+            "sort": 1
+        },
+        {
+            "id": "block_9f86aac0-af55-4c63-b55e-a3f7c72e75cc",
+            "type": "shortcode",
+            "title": "联系学长",
+            "content": "[csop_page_contact]",
+            "collapsed": false,
+            "sort": 2
+        },
+        {
+            "id": "block_ab27d1e9-8d41-4ca5-8f06-635fa1816286",
+            "type": "shortcode",
+            "title": "CSOfferPrep Footer",
+            "content": "[csop_footer]",
+            "collapsed": false,
+            "sort": 3
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "服务&#038;价格",
+    "slug": "price",
+    "container_mode": "fullwidth",
+    "blocks": [
+        {
+            "id": "block_eb863844-7ff5-4821-90c5-d0b1f60867c5",
+            "type": "shortcode",
+            "title": "CSOfferPrep Header",
+            "content": "[csop_header]",
+            "collapsed": false,
+            "sort": 1
+        },
+        {
+            "id": "block_12fc892c-69f2-4d88-abdf-490642b0f769",
+            "type": "shortcode",
+            "title": "服务&价格",
+            "content": "[csop_page_price]",
+            "collapsed": false,
+            "sort": 2
+        },
+        {
+            "id": "block_072b019b-895a-45ce-919a-ed1cb80af4ca",
+            "type": "shortcode",
+            "title": "CSOfferPrep Footer",
+            "content": "[csop_footer]",
+            "collapsed": false,
+            "sort": 3
+        }
+    ]
+}

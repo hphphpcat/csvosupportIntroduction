@@ -1,0 +1,31 @@
+{
+    "name": "面试真题",
+    "slug": "blog",
+    "container_mode": "fullwidth",
+    "blocks": [
+        {
+            "id": "block_a3717273-cb10-46e1-aafb-0b46ee845ff5",
+            "type": "shortcode",
+            "title": "CSOfferPrep Header",
+            "content": "[csop_header]",
+            "collapsed": false,
+            "sort": 1
+        },
+        {
+            "id": "block_8a34f488-8f2a-45bb-a43a-2b32821bb51e",
+            "type": "shortcode",
+            "title": "面试真题",
+            "content": "[csop_page_blog]",
+            "collapsed": false,
+            "sort": 2
+        },
+        {
+            "id": "block_fbaf53ca-a338-4a54-8dce-2ee1275c0a89",
+            "type": "shortcode",
+            "title": "CSOfferPrep Footer",
+            "content": "[csop_footer]",
+            "collapsed": false,
+            "sort": 3
+        }
+    ]
+}

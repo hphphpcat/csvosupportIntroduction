@@ -1,0 +1,31 @@
+{
+    "name": "首页-NEW",
+    "slug": "home",
+    "container_mode": "fullwidth",
+    "blocks": [
+        {
+            "id": "block_576ea596-8c7d-4659-b7a6-8417d840a6e3",
+            "type": "shortcode",
+            "title": "全站眉页",
+            "content": "[csop_header]",
+            "collapsed": false,
+            "sort": 1
+        },
+        {
+            "id": "block_8f2ec709-e860-43df-b679-47019fa5af9e",
+            "type": "shortcode",
+            "title": "Demo 首页主体",
+            "content": "[csop_home]",
+            "collapsed": false,
+            "sort": 2
+        },
+        {
+            "id": "block_dd47c6be-39fb-4902-a6c4-adac0bfc6f07",
+            "type": "shortcode",
+            "title": "全站脚页",
+            "content": "[csop_footer]",
+            "collapsed": false,
+            "sort": 3
+        }
+    ]
+}
