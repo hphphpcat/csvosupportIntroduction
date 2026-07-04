@@ -68,10 +68,10 @@
 
 | 渠道 | 账号 |
 | --- | --- |
-| Telegram | [@codework520](https://t.me/codework520) |
-| WhatsApp | [@csofferprep](https://wa.me/8617282592082) |
-| 微信 | www521314net |
-| Email | azn7u2@gmail.com |
+| Telegram | [@OAVOProxy](https://t.me/OAVOProxy) |
+| WhatsApp / Phone | +86 17863968105 |
+| 微信 | Coding0201 |
+| Email | catcstech@gmail.com |
 
 > 欢迎先做 **30 分钟免费语音咨询**，确认最适合你的服务方案。
 
